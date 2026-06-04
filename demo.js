@@ -75,9 +75,10 @@ console.log(x == y)
 var x = 5;
 var y = 2;
 console.log(x === y)
-var x = 5;
+var x = 10;
 var y = 2;
 console.log(x != y) */
 // logical operators //
+
 
 
