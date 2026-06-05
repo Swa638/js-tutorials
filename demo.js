@@ -78,7 +78,12 @@ console.log(x === y)
 var x = 10;
 var y = 2;
 console.log(x != y) */
-// logical operators //
+/* logical operators 
 
+var x = 6;
+var y = 3;
+console.log(x<10 && y>1)
 
-
+var x = 6;
+var y = 3;
+console.log(!x == y ); */
